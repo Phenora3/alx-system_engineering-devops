@@ -1,1 +1,1 @@
-system engineering deops
+shell permisions
